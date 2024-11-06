@@ -34,6 +34,6 @@ $(document).ready(function () {
       });
     }
 
-    $(this).addClass("was-validated"); 
+    $(this).addClass("was-validated");
   });
 });
