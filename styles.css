@@ -1,0 +1,18 @@
+.button-submit {
+    text-transform: uppercase;
+    background: #5361f0;
+    color: #fff;
+    margin-left: auto;
+    display: block;
+    min-width: 200px;
+}
+
+#contactForm {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.form-column {
+    min-width: 230px;
+}
